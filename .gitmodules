@@ -1,0 +1,3 @@
+[submodule "nets"]
+	path = nets
+	url = https://github.com/AndreasOlofsson/nets.git
