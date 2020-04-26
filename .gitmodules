@@ -1,3 +1,6 @@
 [submodule "nets"]
 	path = nets
 	url = https://github.com/AndreasOlofsson/nets.git
+[submodule "rswasm"]
+	path = rswasm
+	url = https://github.com/AndreasOlofsson/rswasm.git
